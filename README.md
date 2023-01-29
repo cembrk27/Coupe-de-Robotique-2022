@@ -29,10 +29,22 @@ Dans le cadre du BTS nous avons participé à la coupe de France de robotique . 
     <td> Vitrine </td>
   </tr>
   <tr>
-    <td>Bonnard</td>
-    <td>Matthias</td>
-    <td> Telemtre </td>
+    <td>Ashraf Moris</td>
+    <td> Marina </td>
+    <td> "" </td>
     <td> https://github.com/Marina-ASH <td>
+  </tr>
+  <tr>
+    <td> Barrier</td>
+    <td> Arthur </td>
+    <td> "" </td>
+    <td>  <td>
+  </tr>
+  <tr>
+    <td> Dupuis </td>
+    <td> Nael </td>
+    <td> "" </td>
+    <td> https://github.com/Skoelh <td>
   </tr>
 </table>
 
