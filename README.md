@@ -47,6 +47,55 @@ Dans le cadre du BTS nous avons participé à la coupe de France de robotique . 
     <td> "" </td>
     <td> https://github.com/Skoelh <td>
   </tr>
+   <tr>
+    <td> Leviels </td>
+    <td> Benjamin </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
+  <tr>
+    <td> Martor-Christophe </td>
+    <td> Nils </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
+  <tr>
+    <td> Fremaux </td>
+    <td> Ronan </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
+  <tr>
+    <td> Demares </td>
+    <td> Lucille </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
+  <tr>
+    <td> Letiec </td>
+    <td> Gabriel </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
+  <tr>
+    <td> Farhat </td>
+    <td> Ayman </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
+  <tr>
+    <td> Boulant </td>
+    <td> Nicolas </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
+  <tr>
+    <td> Spilers </td>
+    <td> Florent </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
+  
 </table>
 
 
