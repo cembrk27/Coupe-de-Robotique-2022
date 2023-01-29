@@ -23,6 +23,7 @@ Dans le cadre du BTS nous avons participé à la coupe de France de robotique . 
     <td>Berkpinar</td>
     <td>Djem</td>
     <td> Vitrine </td>
+    <td> https://github.com/Djembrk </td>
   </tr>
   <tr>
     <td>Bonnard</td>
@@ -33,73 +34,73 @@ Dans le cadre du BTS nous avons participé à la coupe de France de robotique . 
     <td>Ashraf Moris</td>
     <td> Marina </td>
     <td> "" </td>
-    <td> https://github.com/Marina-ASH <td>
+    <td> https://github.com/Marina-ASH </td>
   </tr>
   <tr>
     <td> Barrier</td>
     <td> Arthur </td>
     <td> "" </td>
-    <td> https://github.com/arthurbarrier76 <td>
+    <td> https://github.com/arthurbarrier76 </td>
   </tr>
   <tr>
     <td> Dupuis </td>
     <td> Nael </td>
     <td> "" </td>
-    <td> https://github.com/Skoelh <td>
+    <td> https://github.com/Skoelh </td>
   </tr>
    <tr>
     <td> Leviels </td>
     <td> Benjamin </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   <tr>
     <td> Martor-Christophe </td>
     <td> Nils </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   <tr>
     <td> Fremaux </td>
     <td> Ronan </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   <tr>
     <td> Demares </td>
     <td> Lucille </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   <tr>
     <td> Letiec </td>
     <td> Gabriel </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   <tr>
     <td> Farhat </td>
     <td> Ayman </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   <tr>
     <td> Boulant </td>
     <td> Nicolas </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   <tr>
     <td> Spilers </td>
     <td> Florent </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   <tr>
     <td> Bussienne </td>
     <td> Ophelie </td>
     <td> "" </td>
-    <td> "" <td>
+    <td> "" </td>
   </tr>
   
 </table>
