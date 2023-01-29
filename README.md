@@ -95,6 +95,12 @@ Dans le cadre du BTS nous avons participé à la coupe de France de robotique . 
     <td> "" </td>
     <td> "" <td>
   </tr>
+  <tr>
+    <td> Bussienne </td>
+    <td> Ophelie </td>
+    <td> "" </td>
+    <td> "" <td>
+  </tr>
   
 </table>
 
