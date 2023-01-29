@@ -39,7 +39,7 @@ Dans le cadre du BTS nous avons participé à la coupe de France de robotique . 
     <td> Barrier</td>
     <td> Arthur </td>
     <td> "" </td>
-    <td>  <td>
+    <td> https://github.com/arthurbarrier76 <td>
   </tr>
   <tr>
     <td> Dupuis </td>
