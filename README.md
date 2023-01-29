@@ -32,7 +32,7 @@ Dans le cadre du BTS nous avons participé à la coupe de France de robotique . 
     <td>Bonnard</td>
     <td>Matthias</td>
     <td> Telemtre </td>
-    <td> @github/Marina-ASH <td>
+    <td> https://github.com/Marina-ASH <td>
   </tr>
 </table>
 
