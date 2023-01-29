@@ -16,7 +16,8 @@ Dans le cadre du BTS nous avons participé à la coupe de France de robotique . 
   <tr>
     <td>Nom</td>
     <td>Prénom</td>
-    <td>Partie du robot </td>
+    <td> Partie du robot </td>
+    <td> Github </td>
   </tr>
   <tr>
     <td>Berkpinar</td>
